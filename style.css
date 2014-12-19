@@ -1,0 +1,21 @@
+body {
+    font-family: 'verdana',sans-serif;
+    color: #000;
+    background: #fff;
+    max-width: 700px;
+    margin: 20px auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+}
+
+button {
+    font-size: 1.5em;
+    padding: 5px;
+	margin-left: 0;
+	background: #fff;
+}
